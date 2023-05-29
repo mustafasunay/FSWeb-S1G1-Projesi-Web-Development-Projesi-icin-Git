@@ -28,4 +28,4 @@ git merge: lokal kodlamaları ana depoda birleştirmek.
 7. Merge conflict nedir?
 İki kişi aynı dosyayı ve aynı satırı değiştirirse ve git otomatik olarak merge edemezse bu durumda conflict olur. 
 8. Merge conflict'i nasıl çözeriz?
-bilmiyorum. 
+Uzman developer tarafından düzgün işleyiş sağlanarak.
